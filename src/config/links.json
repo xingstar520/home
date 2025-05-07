@@ -10,5 +10,17 @@
     "icon": "fab fa-github",
     "url": "https://github.com/xingstar520",
     "hoverColor": "#6500fc"
+  },
+  {
+    "type": "支付宝",
+    "icon": "fab fa-alipay",
+    "qrCode": "/src/static/img/我喜欢你.png",
+    "hoverColor": "#007aff"
+  },
+  {
+    "type": "微信",
+    "icon": "fab fa-weixin",
+    "qrCode": "/src/static/img/睡觉睡觉.png",
+    "hoverColor": "#247700"
   }
 ]
